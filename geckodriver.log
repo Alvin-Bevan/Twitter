@@ -1,0 +1,1151 @@
+1611120645363	geckodriver	INFO	Listening on 127.0.0.1:51754
+1611120648417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile1Zn1TZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611120653553	Marionette	INFO	Listening on port 51763
+1611120653685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611120673788	Marionette	INFO	Stopped listening on port 51763
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611120841693	geckodriver	INFO	Listening on 127.0.0.1:51947
+1611120844731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileDpst98"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611120848812	Marionette	INFO	Listening on port 51956
+1611120848881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611120866385	Marionette	INFO	Stopped listening on port 51956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611121027664	geckodriver	INFO	Listening on 127.0.0.1:52126
+1611121030694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilePu6J45"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611121034099	Marionette	INFO	Listening on port 52136
+1611121034352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611121052463	Marionette	INFO	Stopped listening on port 52136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611121094151	geckodriver	INFO	Listening on 127.0.0.1:52228
+1611121097181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile5vGoiV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611121100419	Marionette	INFO	Listening on port 52238
+1611121100844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1611125671233	Marionette	INFO	Stopped listening on port 52238
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileti0OQB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611121189547	Marionette	INFO	Listening on port 52349
+1611121189964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1611125669270	Marionette	INFO	Stopped listening on port 52349
+1122466573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilewotPMu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611122471454	Marionette	INFO	Listening on port 52876
+1611122471825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611122977855	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611125222104	Marionette	INFO	Stopped listening on port 52876
+1125182156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileW4ywVo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611125187362	Marionette	INFO	Listening on port 53361
+1611125187436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611125224244	Marionette	INFO	Stopped listening on port 53361
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611125276010	geckodriver	INFO	Listening on 127.0.0.1:53501
+1611125279058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileh2amTm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611125283277	Marionette	INFO	Listening on port 53509
+1611125283816	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1611126388322	Marionette	INFO	Stopped listening on port 53509
+amageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611125680772	Marionette	INFO	Listening on port 53898
+1611125680844	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+e.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+6747962	Marionette	INFO	Stopped listening on port 54864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611126877336	geckodriver	INFO	Listening on 127.0.0.1:55047
+1611126880379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilecJTJ2m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611126884568	Marionette	INFO	Listening on port 55056
+1611126884646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1611126907267	Marionette	INFO	Stopped listening on port 55056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611126944875	geckodriver	INFO	Listening on 127.0.0.1:55196
+1611126947936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileYLKrXp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611126951726	Marionette	INFO	Listening on port 55205
+1611126952090	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611127458843	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1611178792956	geckodriver	INFO	Listening on 127.0.0.1:50220
+1611178795981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileS4VMOe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1611178800158	Marionette	INFO	Listening on port 50228
+1611178800275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611178807443	Marionette	INFO	Stopped listening on port 50228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611179074522	geckodriver	INFO	Listening on 127.0.0.1:50272
+1611179077561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileTJ4wXo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1611179081565	Marionette	INFO	Listening on port 50282
+1611179081779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611179111615	Marionette	INFO	Stopped listening on port 50282
+1611179114294	geckodriver	INFO	Listening on 127.0.0.1:50372
+1611179117340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilecpWjKC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 14076, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611179122441	Marionette	INFO	Listening on port 50398
+1611179122962	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to s
+###!!! [Child][RunMessage] Error:1611182054221	Marionette	INFO	Stopped listening on port 50398
+
+
+1611182054520	Marionette	INFO	Stopped listening on port 50566
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileKpqhZ6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611179776516	Marionette	INFO	Listening on port 51179
+1611179776976	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13328, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+[Child 5864, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611179831041	Marionette	INFO	Stopped listening on port 51179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611179848523	geckodriver	INFO	Listening on 127.0.0.1:51285
+1611179851585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileTgI4Vj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611179855094	Marionette	INFO	Listening on port 51293
+1611179855224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611179954992	Marionette	INFO	Stopped listening on port 51293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611180148782	geckodriver	INFO	Listening on 127.0.0.1:51518
+1611180151842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofiled00tjb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611180156152	Marionette	INFO	Listening on port 51526
+1611180156599	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16332, AudioIPC0] WARNING: 28ab133e120 StateCallback() state 1 cubeb error: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:681
+1611180662954	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1611182054302	Marionette	INFO	Stopped listening on port 51526
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611182165325	geckodriver	INFO	Listening on 127.0.0.1:52863
+1611182168376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilezRi3wZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611182172242	Marionette	INFO	Listening on port 52874
+1611182172514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611182842142	Marionette	INFO	Stopped listening on port 52874
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile8MJFdN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611182226430	Marionette	INFO	Listening on port 53023
+1611182226724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1611182840494	Marionette	INFO	Stopped listening on port 53023
+: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611182698361	Marionette	INFO	Listening on port 53568
+1611182698452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.f7f618b5.js, line 17: Error: Unexpected input given to normalize. Expected type to be "object", found "null".
+1611182838704	Marionette	INFO	Stopped listening on port 53568
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611183252918	geckodriver	INFO	Listening on 127.0.0.1:54087
+1611183255974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileym6OkZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611183259460	Marionette	INFO	Listening on port 54096
+1611183259641	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518ee400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 3908, MediaDecoderStateMachine #1] WARNING: Decoder=1c2518f3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+1611184602815	Marionette	INFO	Stopped listening on port 54096
+1183355952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilefgoaiH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611183359362	Marionette	INFO	Listening on port 54342
+1611183359652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+1611184601194	Marionette	INFO	Stopped listening on port 54342
+1183671336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileTOaukv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611183675572	Marionette	INFO	Listening on port 54693
+1611183676080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611184600198	Marionette	INFO	Stopped listening on port 54693
+1184254335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileyuX19K"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184259265	Marionette	INFO	Listening on port 55272
+1611184259594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 233 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.73feefd5.js)
+1611184598423	Marionette	INFO	Stopped listening on port 55272
+1184537931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile3PDget"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184542602	Marionette	INFO	Listening on port 55635
+1611184542693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1611184597207	Marionette	INFO	Stopped listening on port 55635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611184604190	geckodriver	INFO	Listening on 127.0.0.1:55765
+1611184607269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileouxpH7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184611579	Marionette	INFO	Listening on port 55774
+1611184612041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+1611184665855	Marionette	INFO	Stopped listening on port 55774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611184677681	geckodriver	INFO	Listening on 127.0.0.1:55912
+1611184680721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilevQ3Ecr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184684075	Marionette	INFO	Listening on port 55921
+1611184684387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1611184954084	Marionette	INFO	Stopped listening on port 55921
+1184872819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile7SeoaH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184876560	Marionette	INFO	Listening on port 56142
+1611184876986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611184952930	Marionette	INFO	Stopped listening on port 56142
+1611184958352	geckodriver	INFO	Listening on 127.0.0.1:56323
+1611184961393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileit2TfG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611184965231	Marionette	INFO	Listening on port 56334
+1611184965539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611185004388	Marionette	INFO	Stopped listening on port 56334
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611185052790	geckodriver	INFO	Listening on 127.0.0.1:56478
+1611185055833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileNzwP1H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611185059347	Marionette	INFO	Listening on port 56488
+1611185059493	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1611185120085	Marionette	INFO	Stopped listening on port 56488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211154672	geckodriver	INFO	Listening on 127.0.0.1:56882
+1611211157726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileqeg3Zv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211161389	Marionette	INFO	Listening on port 56891
+1611211161427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611211201948	Marionette	INFO	Stopped listening on port 56891
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211207334	geckodriver	INFO	Listening on 127.0.0.1:56985
+1611211210379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilez9PS32"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211213726	Marionette	INFO	Listening on port 56993
+1611211214071	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 4928, MediaDecoderStateMachine #1] WARNING: Decoder=1f5558c5000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+1611211238622	Marionette	INFO	Stopped listening on port 56993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211258346	geckodriver	INFO	Listening on 127.0.0.1:57090
+1611211261393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile6k7F09"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211264722	Marionette	INFO	Listening on port 57099
+1611211265079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611211313795	Marionette	INFO	Stopped listening on port 57099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211512155	geckodriver	INFO	Listening on 127.0.0.1:57263
+1611211515189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileNs7KxN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211518495	Marionette	INFO	Listening on port 57271
+1611211518933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611211537796	Marionette	INFO	Stopped listening on port 57271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211873415	geckodriver	INFO	Listening on 127.0.0.1:57402
+1611211876443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileTE9lU9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211879327	Marionette	INFO	Listening on port 57410
+1611211879643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611211911612	Marionette	INFO	Stopped listening on port 57410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611211964073	geckodriver	INFO	Listening on 127.0.0.1:57551
+1611211967120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileU6zyqE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611211970421	Marionette	INFO	Listening on port 57559
+1611211970827	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1611211984608	Marionette	INFO	Stopped listening on port 57559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611297530972	geckodriver	INFO	Listening on 127.0.0.1:62938
+1611297534027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileaYHWSQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611297539099	Marionette	INFO	Listening on port 62947
+1611297539392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611298099055	Marionette	INFO	Stopped listening on port 62947
+1297886741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileUyX9xO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611297891112	Marionette	INFO	Listening on port 63429
+1611297891613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+1611298101066	Marionette	INFO	Stopped listening on port 63429
+1611298142290	geckodriver	INFO	Listening on 127.0.0.1:63838
+1611298145384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileQOZLl1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611298149224	Marionette	INFO	Listening on port 63849
+1611298149580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 233 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.73feefd5.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611298198389	Marionette	INFO	Stopped listening on port 63849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611298362804	geckodriver	INFO	Listening on 127.0.0.1:64099
+1611298365851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilez0oXsQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611298369523	Marionette	INFO	Listening on port 64108
+1611298370069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611298984643	Marionette	INFO	Stopped listening on port 64108
+1298755767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileWkpgtD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611298759826	Marionette	INFO	Listening on port 64505
+1611298759959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611298979993	Marionette	INFO	Stopped listening on port 64505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileJjqWMC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611298941596	Marionette	INFO	Listening on port 64768
+1611298941950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611299473120	Marionette	INFO	Stopped listening on port 64768
+1299411094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileSeVtEM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611299416041	Marionette	INFO	Listening on port 65458
+1611299416419	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611299471599	Marionette	INFO	Stopped listening on port 65458
+1611299478493	geckodriver	INFO	Listening on 127.0.0.1:49218
+1611299481560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilemkzEi6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611299485554	Marionette	INFO	Listening on port 49227
+1611299485782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 17 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.EmojiPicker.c8bd3f05.js)
+1611300402156	Marionette	INFO	Stopped listening on port 49227
+1300062784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile8BxJ6G"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611300066510	Marionette	INFO	Listening on port 49862
+1611300067035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611300400590	Marionette	INFO	Stopped listening on port 49862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileJ1OU1y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611300400805	Marionette	INFO	Listening on port 50282
+1611300401212	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1611300907351	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1611302623900	geckodriver	INFO	Listening on 127.0.0.1:51012
+1611302626992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile3wyU5a"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611302633300	Marionette	INFO	Listening on port 51027
+1611302633442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611302763540	Marionette	INFO	Stopped listening on port 51027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileOSbptm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611302689645	Marionette	INFO	Listening on port 51181
+1611302689758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611302763356	Marionette	INFO	Stopped listening on port 51181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611302768073	geckodriver	INFO	Listening on 127.0.0.1:51380
+1611302771175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileSip0gb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611302776474	Marionette	INFO	Listening on port 51390
+1611302776998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611302819608	Marionette	INFO	Stopped listening on port 51390
+1611302823828	geckodriver	INFO	Listening on 127.0.0.1:51542
+1611302826867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilerg7t3e"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611302831694	Marionette	INFO	Listening on port 51553
+1611302832212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611304502698	Marionette	INFO	Stopped listening on port 51553
+1302980971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilebgEkJ2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611302986799	Marionette	INFO	Listening on port 51840
+1611302986891	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1611303128106	Marionette	INFO	Stopped listening on port 51840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Listening on port 52017
+1611303054212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 233 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.73feefd5.js)
+1611303126459	Marionette	INFO	Stopped listening on port 52017
+1611303376096	geckodriver	INFO	Listening on 127.0.0.1:52486
+1611303379161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileDSLz5W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611303384796	Marionette	INFO	Listening on port 52497
+1611303385086	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611304502949	Marionette	INFO	Stopped listening on port 52497
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilecdlHT9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304314806	Marionette	INFO	Listening on port 53589
+1611304314907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611304501597	Marionette	INFO	Stopped listening on port 53589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileBihmeG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304437542	Marionette	INFO	Listening on port 53804
+1611304437636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+1611304501471	Marionette	INFO	Stopped listening on port 53804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611304503114	geckodriver	INFO	Listening on 127.0.0.1:53959
+1611304506222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilePglh7Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304511382	Marionette	INFO	Listening on port 53968
+1611304511564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12792, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611346158257	Marionette	INFO	Stopped listening on port 53968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304573938	Marionette	INFO	Listening on port 54112
+1611304574487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611346158251	Marionette	INFO	Stopped listening on port 54112
+1304666168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilegkW1dh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304670763	Marionette	INFO	Listening on port 54297
+1611304671010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611346158054	Marionette	INFO	Stopped listening on port 54297
+e" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileHamk8j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304744768	Marionette	INFO	Listening on port 54448
+1611304745293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611345886762	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1611346158141	Marionette	INFO	Stopped listening on port 54448
+oreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilevHis1n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611304875915	Marionette	INFO	Listening on port 54629
+1611304876479	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611346157891	Marionette	INFO	Stopped listening on port 54629
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilehqeopm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611305128798	Marionette	INFO	Listening on port 54936
+1611305128979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611346156403	Marionette	INFO	Stopped listening on port 54936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofiletx50Pz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611346130671	Marionette	INFO	Listening on port 55536
+1611346130781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611346154415	Marionette	INFO	Stopped listening on port 55536
+1611346186298	geckodriver	INFO	Listening on 127.0.0.1:55663
+1611346189373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileuOtflv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611346193107	Marionette	INFO	Listening on port 55673
+1611346193592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611346518796	Marionette	INFO	Stopped listening on port 55673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile7sOlZT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611346489727	Marionette	INFO	Listening on port 55940
+1611346490247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611346514219	Marionette	INFO	Stopped listening on port 55940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611346607811	geckodriver	INFO	Listening on 127.0.0.1:56122
+1611346610848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofiledNG5v5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611346614115	Marionette	INFO	Listening on port 56131
+1611346614568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611381516245	geckodriver	INFO	Listening on 127.0.0.1:51280
+1611381519310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileGyNkDZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611381525414	Marionette	INFO	Listening on port 51293
+1611381525669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611381587875	Marionette	INFO	Stopped listening on port 51293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611381590786	geckodriver	INFO	Listening on 127.0.0.1:51430
+1611381593863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilePMLrR0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611381598859	Marionette	INFO	Listening on port 51440
+1611381599269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611381674645	Marionette	INFO	Stopped listening on port 51440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611381680201	geckodriver	INFO	Listening on 127.0.0.1:51602
+1611381683268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilevL7r11"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611381688234	Marionette	INFO	Listening on port 51612
+1611381688613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611381711310	geckodriver	INFO	Listening on 127.0.0.1:51698
+1611381714371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileNjAo9g"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611381718138	Marionette	INFO	Listening on port 51720
+1611381718623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611384368928	geckodriver	INFO	Listening on 127.0.0.1:50641
+1611384371993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile0mDK4Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611384377237	Marionette	INFO	Listening on port 50649
+1611384377347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611384440966	Marionette	INFO	Stopped listening on port 50649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611384442901	geckodriver	INFO	Listening on 127.0.0.1:50754
+1611384445982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileuocShC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611384449915	Marionette	INFO	Listening on port 50764
+1611384450199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611384531380	Marionette	INFO	Stopped listening on port 50764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileafeEdQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611384505858	Marionette	INFO	Listening on port 50858
+1611384505986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611384529535	Marionette	INFO	Stopped listening on port 50858
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611384540350	geckodriver	INFO	Listening on 127.0.0.1:50922
+1611384543409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile6i1sj7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611384547584	Marionette	INFO	Listening on port 50930
+1611384547682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385019452	Marionette	INFO	Stopped listening on port 50930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilegWyb8w"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611384678044	Marionette	INFO	Listening on port 51046
+1611384678304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385017437	Marionette	INFO	Stopped listening on port 51046
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611385128605	geckodriver	INFO	Listening on 127.0.0.1:51461
+1611385131683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileusneJj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611385135672	Marionette	INFO	Listening on port 51473
+1611385135853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385224602	Marionette	INFO	Stopped listening on port 51473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofiletIx3Yc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611385210534	Marionette	INFO	Listening on port 51621
+1611385210725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385223088	Marionette	INFO	Stopped listening on port 51621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611385280302	geckodriver	INFO	Listening on 127.0.0.1:51725
+1611385283352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileu9tddO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611385287364	Marionette	INFO	Listening on port 51734
+1611385287571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385469176	Marionette	INFO	Stopped listening on port 51734
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile35eV8b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611385442435	Marionette	INFO	Listening on port 51938
+1611385442606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611385465195	Marionette	INFO	Stopped listening on port 51938
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611385593470	geckodriver	INFO	Listening on 127.0.0.1:52094
+1611385596511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileLK1w53"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611385600758	Marionette	INFO	Listening on port 52103
+1611385600842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611386188948	Marionette	INFO	Stopped listening on port 52103
+1386055674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileCOm6bZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611386059854	Marionette	INFO	Listening on port 52627
+1611386060013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 233 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.73feefd5.js)
+1611386188601	Marionette	INFO	Stopped listening on port 52627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileeYRa5Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611386141092	Marionette	INFO	Listening on port 52787
+1611386141576	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6272, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611386188634	Marionette	INFO	Stopped listening on port 52787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611386190383	geckodriver	INFO	Listening on 127.0.0.1:52906
+1611386193442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileDEVY23"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611386197962	Marionette	INFO	Listening on port 52916
+1611386198251	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611391227154	Marionette	INFO	Stopped listening on port 52916
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilel3hBFA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611386264045	Marionette	INFO	Listening on port 53074
+1611386264216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 131: ChunkLoadError: Loading chunk 233 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.73feefd5.js)
+1611391227002	Marionette	INFO	Stopped listening on port 53074
+1390185580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofilenytzcs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611390190989	Marionette	INFO	Listening on port 63997
+1611390191390	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19caad9c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19ca9aa8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19ca9aa8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19ca9aa8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19ca9aa8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 9436, MediaDecoderStateMachine #1] WARNING: Decoder=19ca9aa8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+1611391181206	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1611391226083	Marionette	INFO	Stopped listening on port 63997
+oreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileM6Rs6p"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611390288582	Marionette	INFO	Listening on port 64214
+1611390288692	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12472, MediaDecoderStateMachine #1] WARNING: Decoder=14d7b1a8000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+1611391226016	Marionette	INFO	Stopped listening on port 64214
+1390361377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileHYyRZl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611390371091	Marionette	INFO	Listening on port 64374
+1611390371463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611391226659	Marionette	INFO	Stopped listening on port 64374
+1611391227808	geckodriver	INFO	Listening on 127.0.0.1:64757
+1611391230870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofileVFE4GY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1611391234811	Marionette	INFO	Listening on port 64766
+1611391235081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611391319612	geckodriver	INFO	Listening on 127.0.0.1:64872
+1611391322644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile4U7dXb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611391329285	Marionette	INFO	Listening on port 64887
+1611391329502	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 2844, MediaDecoderStateMachine #1] WARNING: Decoder=1f289df1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+1611391383541	geckodriver	INFO	Listening on 127.0.0.1:65090
+1611391386598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bevan\\AppData\\Local\\Temp\\rust_mozprofile2tYVOG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611391391785	Marionette	INFO	Listening on port 65100
+1611391392027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 147 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.73eb4145.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 147 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.73eb4145.js)
+[Child 12256, MediaDecoderStateMachine #1] WARNING: Decoder=1991468e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 12256, MediaDecoderStateMachine #1] WARNING: Decoder=1991468e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
